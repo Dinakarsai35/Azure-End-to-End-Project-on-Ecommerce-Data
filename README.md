@@ -5,7 +5,10 @@
 This project simulates a real-time enterprise-grade Azure data pipeline by ingesting, transforming, and modeling eCommerce sales data using a lakehouse approach. The solution leverages GitHub, ADF, Azure SQL, Azure Data Lake, Azure Databricks, and Power BI — following best practices and automation.
 
 ## 📌 Project Architecture Overview
+
+
 Bronze → Silver → Gold Medallion Architecture
+
 GitHub → Azure Data Factory → Azure SQL Database → Azure Data Lake → Azure Databricks → Power BI
 
 ## 🔧 Tools & Services Used
